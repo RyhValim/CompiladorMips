@@ -1,2 +1,3 @@
 # CompiladorMips
-Compilador
+
+Compilador Assembly do MIPS.
